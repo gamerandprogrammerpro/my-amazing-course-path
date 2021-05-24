@@ -3,6 +3,7 @@ description: 'A description of your course '
 steps:
   - course: githubtraining/introduction-to-github
     description: The first step in your course
+    title: Step
   - link: 'https://lab.github.com'
     title: Check out Learning Lab for more courses!
     description: >-
